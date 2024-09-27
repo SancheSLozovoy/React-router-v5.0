@@ -1,0 +1,15 @@
+.header-block{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.active-link{
+    color: red;
+}
